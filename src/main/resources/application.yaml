@@ -43,4 +43,3 @@ spring:
 logging:
   charset:
     console: UTF-8
-  level: severe
